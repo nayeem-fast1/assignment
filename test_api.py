@@ -2,8 +2,6 @@ import os
 from collections import defaultdict
 from configparser import ConfigParser
 from pathlib import Path
-from bs4 import BeautifulSoup
-import pandas as pd
 
 import pytest
 import requests
